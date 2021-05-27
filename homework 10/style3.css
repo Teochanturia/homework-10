@@ -1,0 +1,17 @@
+.first{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(199, 136, 199);
+    margin: auto;
+}
+
+button{
+    width: 90px;
+    height: 50px;
+    background-color: lightslategrey;
+}
+input{
+    width: 80px;
+    height: 20px;
+    background-color:rgb(151, 151, 151);
+}

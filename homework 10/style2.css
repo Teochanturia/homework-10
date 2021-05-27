@@ -1,0 +1,36 @@
+.div1{
+    width: 500px;
+    height: 500px;
+    background-color: violet;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.sec{
+    height: 600px;
+    background-color: rgb(235, 8, 235);
+    border: 2px solid pink;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+input{
+    width: 450px; 
+    height: 90px;
+    margin: auto;
+    background-color: rgb(165, 199, 245);
+    box-sizing: border-box;
+    border:solid 2px rgb(0, 0, 0);
+}
+button{
+    width: 28px;
+    height: 50px;
+    background-color: rgb(238, 173, 235);
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    border:solid 1px rgb(0, 0, 0);
+    border-radius: 2px;
+    box-sizing: border-box;
+}
